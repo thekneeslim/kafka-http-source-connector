@@ -14,5 +14,6 @@ public class Book {
     private final String description;
     private final String author;
     private final Instant publishingDate;
+    private final Instant procuredTime;
 
 }
