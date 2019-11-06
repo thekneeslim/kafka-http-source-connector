@@ -1,4 +1,5 @@
 rootProject.name = 'http-connector'
 include 'http-source-connector'
 include 'scripts'
+include 'source-application'
 
